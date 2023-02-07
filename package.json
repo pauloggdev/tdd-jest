@@ -1,0 +1,15 @@
+{
+  "name": "meus_projetos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --collect-coverage"
+  },
+  "keywords": [],
+  "author": "Paulo João <pauloggjoao@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.4.2"
+  }
+}
